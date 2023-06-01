@@ -1,0 +1,7 @@
+0,rer,re,12,Male,Positive,31
+1,rer,re,Gay,Negative,rer
+2,gd,fd,Female,Negative,fdff
+3,Bimal,Sthaasasa,Male,Male,Positive,
+4,Manish,Silwal,21,Male,Positive,123
+5,Test,User,50,Male,Positive,2020
+6,Test1,User1,50\1,Male,Negative,2020
